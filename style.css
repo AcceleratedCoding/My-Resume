@@ -1,4 +1,4 @@
-.intro{
+header{
     background-color: blue;
     height: 150px;
     width: 90%;
@@ -54,7 +54,7 @@ img{
     display: inline-block;
 }
 
-.bottom{
+main{
     width: 90%;
     margin: 30px auto;  
 }
